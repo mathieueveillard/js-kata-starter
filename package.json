@@ -1,0 +1,39 @@
+{
+  "name": "js-kata-starter",
+  "version": "1.0.0",
+  "description": "Starter project for kata (Node, TypeScript, Jest)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --config jest.config.json",
+    "format": "prettier --write 'src/**/*.ts'"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.1",
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {},
+  "prettier": {
+    "printWidth": 120
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieueveillard/js-kata-starter.git"
+  },
+  "keywords": [
+    "starter",
+    "project",
+    "kata",
+    "node",
+    "typescript",
+    "jest"
+  ],
+  "author": "Mathieu Eveillard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathieueveillard/js-kata-starter/issues"
+  },
+  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme"
+}
