@@ -1,0 +1,4 @@
+/node_modules
+**/*.js
+**/*.spec.js
+**/*.js.map

@@ -1,0 +1,42 @@
+{
+  "name": "kata-interview",
+  "version": "1.0.0",
+  "description": "Starter project for katas during interviews (Node, TypeScript, Jest)",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -w",
+    "start": "npm run tsc",
+    "test": "jest --watch --config jest.config.json",
+    "format": "prettier --write 'src/**/*.ts'"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0",
+    "prettier": "^1.14.3",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.5"
+  },
+  "dependencies": {},
+  "prettier": {
+    "printWidth": 120
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieueveillard/kata-interview.git"
+  },
+  "keywords": [
+    "starter",
+    "project",
+    "kata",
+    "interview",
+    "node",
+    "typescript",
+    "jest"
+  ],
+  "author": "Mathieu Eveillard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathieueveillard/kata-interview/issues"
+  },
+  "homepage": "https://github.com/mathieueveillard/kata-interview#readme"
+}
