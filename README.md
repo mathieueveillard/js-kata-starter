@@ -11,14 +11,6 @@ npm install
 
 ## Development
 
-Compilation
-
-```
-npm start
-```
-
-Test
-
 ```
 npm test
 ```
