@@ -8,11 +8,11 @@
     "format": "prettier --write 'src/**/*.ts'"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.9",
-    "jest": "^23.6.0",
-    "prettier": "^1.14.3",
-    "ts-jest": "^23.10.4",
-    "typescript": "^3.1.5"
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.1"
   },
   "dependencies": {},
   "prettier": {
