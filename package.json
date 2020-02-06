@@ -1,18 +1,18 @@
 {
-  "name": "kata-interview",
+  "name": "js-kata-starter",
   "version": "1.0.0",
-  "description": "Starter project for katas during interviews (Node, TypeScript, Jest)",
+  "description": "Starter project for kata (Node, TypeScript, Jest)",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch --config jest.config.json",
     "format": "prettier --write 'src/**/*.ts'"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.18",
+    "@types/jest": "^25.1.1",
     "jest": "^24.9.0",
-    "prettier": "^1.18.2",
-    "ts-jest": "^24.0.2",
-    "typescript": "^3.6.2"
+    "prettier": "^1.19.1",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
   },
   "dependencies": {},
   "prettier": {
@@ -20,13 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/kata-interview.git"
+    "url": "git+https://github.com/mathieueveillard/js-kata-starter.git"
   },
   "keywords": [
     "starter",
     "project",
     "kata",
-    "interview",
     "node",
     "typescript",
     "jest"
@@ -34,7 +33,7 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/kata-interview/issues"
+    "url": "https://github.com/mathieueveillard/js-kata-starter/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/kata-interview#readme"
+  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme"
 }

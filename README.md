@@ -1,11 +1,11 @@
-# kata-interview
+# js-kata-starter
 
-Starter project for katas during interviews (Node, TypeScript, Jest)
+Starter project for kata (Node, TypeScript, Jest)
 
 ## Installation
 
 ```
-git clone https://github.com/mathieueveillard/kata-interview.git
+git clone https://github.com/mathieueveillard/js-kata-starter.git
 npm install
 ```
 
