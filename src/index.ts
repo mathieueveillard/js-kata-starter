@@ -1,3 +1,3 @@
-export function doTheThing(): boolean {
+export function systemUnderTest(): boolean {
   return true;
 }

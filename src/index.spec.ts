@@ -1,7 +1,7 @@
-import { doTheThing } from ".";
+import { systemUnderTest } from ".";
 
-describe("Test of the test framework", function() {
+describe("Test of systemUnderTest()", function() {
   it("Should pass", function() {
-    expect(doTheThing()).toEqual(true);
+    expect(systemUnderTest()).toEqual(true);
   });
 });

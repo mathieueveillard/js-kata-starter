@@ -1,5 +1,2 @@
 /node_modules
 /coverage
-**/*.js
-**/*.spec.js
-**/*.js.map
