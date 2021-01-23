@@ -7,7 +7,7 @@ Starter project for kata (Node, TypeScript, Jest)
 ```shell
 git clone https://github.com/mathieueveillard/js-kata-starter.git
 cd js-kata-starter
-npm install
+npm install --no-save
 ```
 
 ## Development
