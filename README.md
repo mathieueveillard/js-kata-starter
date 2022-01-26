@@ -2,16 +2,8 @@
 
 Starter project for kata (Node, TypeScript, Jest)
 
-## Installation
+## Getting started
 
-```shell
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
-```
-
-## Development
-
-```shell
-npm test
-```
+- **Fork**, then clone the repository
+- Install dependencies
+- Start developing (`npm test`)
