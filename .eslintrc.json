@@ -13,6 +13,8 @@
   "plugins": ["@typescript-eslint", "jest"],
   "rules": {
     "arrow-body-style": ["off"],
+    "import/no-unresolved": ["off"],
+    "max-len": ["off"],
     "quotes": ["error", "double"]
   }
 }
