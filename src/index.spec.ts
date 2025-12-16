@@ -1,11 +1,6 @@
-import * as matchers from "jest-extended";
+import { expect, test } from "vitest";
+import sum from ".";
 
-expect.extend(matchers);
-
-test("A simple test (Jest)", () => {
-  expect(1 + 1).toEqual(2);
-});
-
-test("Additional matchers (jest-extended)", () => {
-  expect([1, 0]).toIncludeSameMembers([0, 1]);
+test("adds 1 + 2 to equal 3", () => {
+  expect(sum(1, 2)).toBe(3);
 });
